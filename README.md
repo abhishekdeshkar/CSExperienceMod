@@ -1,4 +1,4 @@
-# CSExperienceMod
+# Experience Point MOD for Counter-Strike.
 Experience Mod in CS. Also known as XP Mod. Check out (ExperienceMod.sma) file.
 
 ###### I have created this script from scratch. Took almost 1 month to build. :P
